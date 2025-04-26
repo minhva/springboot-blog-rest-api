@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="TEXT ATTRIBUTES" enabled_by_default="true" editorAttributes="CONSIDERATION_ATTRIBUTES">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+      <scope name="Project Files" level="WEAK WARNING" enabled="true" editorAttributes="INFO_ATTRIBUTES" />
+    </inspection_tool>
+    <inspection_tool class="JSHint" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+      <scope name="Project Files" level="WEAK WARNING" enabled="true" editorAttributes="INFO_ATTRIBUTES" />
+    </inspection_tool>
+    <inspection_tool class="StandardJS" enabled="true" level="WARNING" enabled_by_default="false" editorAttributes="WARNING_ATTRIBUTES">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+      <scope name="Project Files" level="WEAK WARNING" enabled="true" editorAttributes="INFO_ATTRIBUTES" />
+    </inspection_tool>
+    <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+      <scope name="Project Files" level="WEAK WARNING" enabled="true" editorAttributes="INFO_ATTRIBUTES" />
+    </inspection_tool>
+    <inspection_tool class="TypeScriptExplicitMemberType" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="TypeScriptRedundantGenericType" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <scope name="Project Files" level="WEAK WARNING" enabled="false" />
+    </inspection_tool>
+  </profile>
+</component>
